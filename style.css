@@ -39,3 +39,15 @@ body{
 .navBar a:hover{
 color: rgb(10, 49, 247);
 }
+.home{
+   position: relative;
+   width: 100%;
+   justify-content: space-between;
+   height: 100vh;
+   background:url(src/background4.png) no-repeat; 
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   align-items: center;
+   padding: 70px 10% 0;
+}
