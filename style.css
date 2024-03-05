@@ -51,3 +51,14 @@ color: rgb(10, 49, 247);
    align-items: center;
    padding: 70px 10% 0;
 }
+.home-content{
+    max-width: 600px;
+}
+.home-content h3{
+font-size: 32px;
+font-weight:30px ;
+}
+.home-content p{
+    font-size: 22px;
+    font-weight:20px ;
+    }
